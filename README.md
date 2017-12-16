@@ -1,5 +1,5 @@
 # Higgs-Boson-Decay-Classification
 
- R script includes PCA, EDA, etc. __
- Python script includes ML algorithms.__
+ R script includes PCA, EDA, etc. <br />
+ Python script includes ML algorithms.<br />
  latex-source includes deliverables.
